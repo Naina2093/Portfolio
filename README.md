@@ -21,7 +21,8 @@ Proven track record of delivering scalable analytical solutions and extracting a
 **Data Visualization**: [Tableau](https://public.tableau.com/app/profile/naina.gupta2676/vizzes) , [Microsoft PowerBI](https://app.powerbi.com/groups/me/reports/90041c8f-9aff-4ea4-a009-0c1108205dd8/f198de6fa0cc10085d24?experience=power-bi&bookmarkGuid=4ca18afd1186d327ab77) , ggplot2, Matplotlib, Seaborn, Plotly, MS Excel(Pivot Tables, PowerQuery, DAX)
 
 **Microsoft Certified**: [Power BI Data Analyst Associate (PL-300) (Feb 2025)](https://learn.microsoft.com/api/credentials/share/en-us/NainaGupta-5121/34EE46495BDBFBA5?sharingId=78CF3350D8C51F65)
-![View Certificate]
+![View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/NainaGupta-5121/34EE46495BDBFBA5?sharingId=78CF3350D8C51F65)
+
 
 **Methodologies & Workflow**: Agile (Scrum), A/B testing, data storytelling, KPI tracking, Business Intelligence Reporting
 
@@ -64,7 +65,7 @@ Proven track record of delivering scalable analytical solutions and extracting a
 
 <a href="https://github.com/Naina2093/Traumatic-Brain-Injuries-Project">Comprehensive Patient Data Analysis of Traumatic Brain Injuries</a>
 
-<a href="https://www.linkedin.com/company/power-of-patients/"><img src= "https://github.com/Naina2093/portfolio/blob/486da87c8aaca5c8e8dbb9078eb906d32cac8957/Screenshot%202025-02-18%20232146.png"/></a>
+<a href="https://www.linkedin.com/company/power-of-patients/"><img src= "https://github.com/Naina2093/Portfolio_Naina/blob/0f854f7dc73b077f06185a55663cb2431a7aef10/Screenshot%202025-02-18%20232146.png"/></a>
 
 
 **Tools used:** SQL, R, [Tableau](https://public.tableau.com/app/profile/naina.gupta2676/viz/TraumaticBrainInjuryPatientsDataAnalysis/Story1) , Microsoft Excel
@@ -80,6 +81,7 @@ Proven track record of delivering scalable analytical solutions and extracting a
 
 <a href="https://github.com/Naina2093/Investing-in-Nashville-Housing-Market">Real Estate Strategic Data Analysis: Nashville Housing</a>
 
+![icon](https://github.com/Naina2093/Portfolio_Naina/blob/0f854f7dc73b077f06185a55663cb2431a7aef10/6d1c9f13fd4505619b31235fb972f68a.jpg)
 
 **Tools used:** Tableau, Python, Microsoft Excel
 
@@ -106,6 +108,7 @@ Proven track record of delivering scalable analytical solutions and extracting a
 
 <a href="https://github.com/Naina2093/Text-Classification">Text Classification leveraging Neural Networks</a>
 
+![icon](https://github.com/Naina2093/Portfolio_Naina/blob/0f854f7dc73b077f06185a55663cb2431a7aef10/images.png)
 
 **Tools used:** Python, Microsoft Excel
 
