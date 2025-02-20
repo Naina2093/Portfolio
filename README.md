@@ -7,7 +7,6 @@ Proficient in SQL for data querying and transformation, Python & R for data clea
 Proven track record of delivering scalable analytical solutions and extracting actionable insights from complex data sets to drive business growth.
 
 
-
 #### Technical Skills:
 -----------------------------
 **Programming Languages** : SQL, Python (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch), R
