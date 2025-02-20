@@ -64,7 +64,7 @@ Proven track record of delivering scalable analytical solutions and extracting a
 
 <a href="https://github.com/Naina2093/Traumatic-Brain-Injuries-Project">Comprehensive Patient Data Analysis of Traumatic Brain Injuries</a>
 
-<a href="https://www.linkedin.com/company/power-of-patients/"><img src= "https://github.com/Naina2093/Portfolio_Naina/blob/0f854f7dc73b077f06185a55663cb2431a7aef10/Screenshot%202025-02-18%20232146.png"/></a>
+<a href="https://www.linkedin.com/company/power-of-patients/"><img src= "https://github.com/Naina2093/portfolio/blob/cf8e6d554ea0acc65909cc65edc98d670d6d66e7/Screenshot%202025-02-18%20232146.png"/></a>
 
 
 **Tools used:** SQL, R, [Tableau](https://public.tableau.com/app/profile/naina.gupta2676/viz/TraumaticBrainInjuryPatientsDataAnalysis/Story1) , Microsoft Excel
