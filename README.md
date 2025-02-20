@@ -80,7 +80,7 @@ Proven track record of delivering scalable analytical solutions and extracting a
 
 <a href="https://github.com/Naina2093/Investing-in-Nashville-Housing-Market">Real Estate Strategic Data Analysis: Nashville Housing</a>
 
-![icon](https://github.com/Naina2093/Portfolio_Naina/blob/0f854f7dc73b077f06185a55663cb2431a7aef10/6d1c9f13fd4505619b31235fb972f68a)
+![icon](https://github.com/Naina2093/Portfolio_Naina/blob/0f854f7dc73b077f06185a55663cb2431a7aef10/6d1c9f13fd4505619b31235fb972f68a.jpg)
 
 **Tools used:** Tableau, Python, Microsoft Excel
 
