@@ -23,8 +23,6 @@ Proven track record of delivering scalable analytical solutions and extracting a
 **Microsoft Certified**: [Power BI Data Analyst Associate (PL-300) (Feb 2025)](https://learn.microsoft.com/api/credentials/share/en-us/NainaGupta-5121/34EE46495BDBFBA5?sharingId=78CF3350D8C51F65)
 ![View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/NainaGupta-5121/34EE46495BDBFBA5?sharingId=78CF3350D8C51F65)
 
-![icon](https://github.com/Naina2093/Portfolio_Naina/blob/cf61eb472b9b4b9c1d99c6693f09465cd09b0fdb/Certificate.png)
-
 
 **Methodologies & Workflow**: Agile (Scrum), A/B testing, data storytelling, KPI tracking, Business Intelligence Reporting
 
